@@ -22,7 +22,7 @@ To interact with the smart contract, you can use the Remix IDE. Copy the contrac
 
 ### Snowtrace
 
-You can deploy the smart contract to the Avalanche Fuji C-Chain network using Snowtrace. After deployment, you can monitor transactions, events, and the contract's state on the Snowtrace platform.
+You can deploy the smart contract to the Avalanche Fuji Test network using Snowtrace. After deployment, you can monitor transactions, events, and the contract's state on the Snowtrace platform.
 
 ### MetaMask
 
