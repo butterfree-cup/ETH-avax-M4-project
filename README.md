@@ -28,4 +28,11 @@ You can deploy the smart contract to the Avalanche network using Snowtrace. Afte
 
 MetaMask is a popular Ethereum wallet extension. Connect MetaMask to your Remix IDE and Snowtrace to interact seamlessly with the smart contract. Make sure to switch to the Avalanche network on MetaMask when interacting with the deployed contract.
 
+## Smart Contract Deployment
 
+Follow these steps to deploy the smart contract:
+
+1. Fork this repository.
+2. Deploy the contract using Remix IDE. (Note: Make sure to select 'Injected Provider' as the Environment.)
+3. Interact with the contract by getting the contract address and paste it in the 'At Address' field in the DEPLOY & RUN TRANSACTIONS tab within Remix IDE.
+4. Monitor contract transactions and events on Snowtrace.
